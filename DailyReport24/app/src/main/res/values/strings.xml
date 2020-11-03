@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyReport2</string>
+    <string name="add">add</string>
+    <string name="time">Time</string>
+    <string name="village">Village</string>
+    <string name="persongroup">PersonGroup</string>
+    <string name="actionpoint">ActionPoint</string>
+    <string name="nextdayplanning">NextDayPlanning</string>
+    <string name="meetingpoint">MeetingPoint</string>
+</resources>
